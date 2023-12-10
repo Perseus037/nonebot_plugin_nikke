@@ -1,2 +1,3 @@
 # nonebot_plugin_nikke
 nonebot2胜利女神：妮姬多功能插件
+有空写的功能全点了再发，就两个功能实在不好意思发包
