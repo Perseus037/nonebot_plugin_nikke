@@ -3,7 +3,7 @@ from pathlib import Path
 
 from nonebot.plugin import PluginMetadata
 
-__version__ = "0.1.0.post1"
+__version__ = "0.1.0.post2"
 __plugin_meta__ = PluginMetadata(
     name="nonebot_plugin_nikke",
     description="胜利女神：妮姬多功能插件",
