@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Perseus037/data/blob/master/nikke.webp" alt="nonebot_plugin_nikke图标" >
 
-# nonebot-plugin-batarot
+# nonebot-plugin-nikke
 
 _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 
