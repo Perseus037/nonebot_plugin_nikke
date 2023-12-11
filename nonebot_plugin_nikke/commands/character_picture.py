@@ -18,9 +18,10 @@ cmd_character_gamekee = on_command("nk角评", aliases={"nikke角评"})
 
 async def get_character_image(character_name):
     for id, data in character_data.items():
+       
         if data['character_name'] == character_name:
-            # 更新后的 URL 格式
             image_url = f"https://git.acwing.com/Perseus_037/nikke-data/-/raw/main/{id}.png"
+           
             try:
                 async with httpx.AsyncClient() as client:
                    resp = await client.get(image_url)
@@ -46,6 +47,6 @@ async def handle_cmd_character_gamekee(bot: Bot, event: Event):
     image_bytes = await get_character_image(character_name)
     if image_bytes:
         await bot.send(event, MessageSegment.image(image_bytes))
+       
     else:
         await bot.send(event, f"没有找到角色: {character_name}")
-
