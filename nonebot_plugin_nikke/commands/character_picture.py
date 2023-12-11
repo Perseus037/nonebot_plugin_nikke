@@ -6,7 +6,6 @@ from nonebot import on_command
 from nonebot.adapters import Bot, Event
 from nonebot.log import logger
 from nonebot.adapters.onebot.v11 import MessageSegment
-
    
 current_directory = os.path.dirname(__file__)
 json_file_path = os.path.join(current_directory, 'character_data.json')
