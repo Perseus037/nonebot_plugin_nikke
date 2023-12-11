@@ -93,7 +93,6 @@ example：<img src="https://github.com/Perseus037/data/blob/master/nikke%20examp
 ### 黑纸折扇 [Perseus037] (https://github.com/Perseus037)
 
 QQ：1209228678
-邮箱：1209228678@qq.com
 
 ## 🙏 感谢
 
