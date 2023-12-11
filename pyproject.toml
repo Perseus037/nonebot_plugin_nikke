@@ -30,7 +30,7 @@ menu = ["nonebot-plugin-PicMenu>=0.2"]
 
 [tool.pdm.version]
 source = "file"
-path = "nonebot_plugin_batarot/__init__.py"
+path = "nonebot_plugin_nikke/__init__.py"
 
 [tool.pdm.build]
 includes = []
