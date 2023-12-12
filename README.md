@@ -39,7 +39,7 @@ _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 
 一个胜利女神：妮姬的 Wiki 插件，主要数据来源为 GameKee 
 
-现在只有最基础的功能，最近又太忙，等过段时间一点点加功能吧。
+现在只有最基础的功能，最近又太忙，等过段时间有空了一点点加功能吧。
 
 ## 💿 安装
 
@@ -101,13 +101,17 @@ QQ：1209228678
 在此感谢以下开发者(项目)对本项目做出的贡献：
 
 -  [student_2333](https://github.com/lgc2333) 对于我学习编写插件和配置qqbot等过程中的无私帮助
--  [nonebot_plugin_bawiki]（https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki) 提供的代码参考（~~直接开抄~~) 
+-  [nonebot_plugin_bawiki](https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki) 提供的结构和代码参考
+
+插件数据源提供：
+
+-  [GameKee](https://nikke.gamekee.com/)
 
 ## 📝 更新日志
 
 ### 0.1.0.post1
 
-- 从gamekee爬了n张图
+- 从gamekee爬了n张图，敲爬虫敲得我手都麻了
 - 重构代码，对原有代码进行模块化拆分便于维护
 
 
