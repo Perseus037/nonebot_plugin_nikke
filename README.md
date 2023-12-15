@@ -105,8 +105,8 @@ QQ：1209228678
 
 插件数据源提供：
 
--  [GameKee](https://nikke.gamekee.com/) 提供的数据
--  [Nikke-db](https://github.com/Nikke-db/Nikke-db.github.io) 提供的数据
+-  [GameKee](https://nikke.gamekee.com/) 
+-  [Nikke-db](https://github.com/Nikke-db/Nikke-db.github.io) 
 
 ## 📝 更新日志
 
