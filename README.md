@@ -41,6 +41,8 @@ _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 
 给群友写着玩的，现在只有最基础的功能，最近又太忙，等过段时间有空了一点点加功能吧
 
+还有个问题就是，没有找到合适api爬立绘live2D，也没有找到合适的图床，暂时先用github凑活吧。
+
 ## 💿 安装
 
 </details>
@@ -87,6 +89,7 @@ _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 现有指令列表：
 
 nk角评，nikke角评：输出一张包含对应角色数据，技能等信息的图片，支持模糊搜索
+
 nk评分, nk角色评分：输出一张全角色评分图，默认输出爆裂阶段3的评分图,支持选择，输入nk评分 1，bot则会回复爆烈阶段3的评分图。
 
 example：<img src="https://github.com/Perseus037/data/blob/master/nikke%20example.png" alt="示例" >
