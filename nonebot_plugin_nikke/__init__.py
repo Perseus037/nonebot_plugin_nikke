@@ -12,6 +12,7 @@ __plugin_meta__ = PluginMetadata(
     type="application",
     config=None,
     supported_adapters={"~onebot.v11"},
+    extra={"License": "MIT", "Author": "Perseus037"}
 )
 
 def load_commands():
