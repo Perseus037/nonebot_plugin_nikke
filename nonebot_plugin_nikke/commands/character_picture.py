@@ -12,7 +12,7 @@ from nonebot.rule import Rule
 
    
 current_directory = os.path.dirname(__file__)
-json_file_path = os.path.join(current_directory, 'character_data.json')
+json_file_path = os.path.join(current_directory, '..', 'json', 'character_data.json')
 
 with open(json_file_path, 'r', encoding='utf-8') as file:
     character_data = json.load(file)
