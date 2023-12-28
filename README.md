@@ -86,7 +86,8 @@ _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 
 现有指令列表：
 
-nk角评，nikke角评：输出一张包含对应角色数据，技能等信息的图片
+nk角评，nikke角评：输出一张包含对应角色数据，技能等信息的图片，支持模糊搜索
+nk评分, nk角色评分：输出一张全角色评分图，默认输出爆裂阶段3的评分图,支持选择，输入nk评分 1，bot则会回复爆烈阶段3的评分图。
 
 example：<img src="https://github.com/Perseus037/data/blob/master/nikke%20example.png" alt="示例" >
 
@@ -112,6 +113,7 @@ QQ：1209228678
 
 ### 0.1.0.post2
 - 实现角色图片模糊搜索
+- 增加新功能，nk角色评分
 
 ### 0.1.0.post1
 
