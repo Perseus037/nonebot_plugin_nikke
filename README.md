@@ -106,7 +106,7 @@ QQ：1209228678
 
 在此感谢以下开发者(项目)对本项目做出的贡献：
 
--  [student_2333](https://github.com/lgc2333) 对于我学习编写插件和配置qqbot等过程中的无私帮助
+-  [student_2333](https://github.com/lgc2333) 的无私帮助
 -  [nonebot_plugin_bawiki](https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki) 提供的结构和代码参考
 
 插件数据源提供：
