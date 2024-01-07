@@ -92,7 +92,7 @@ nk角评，nikke角评：输出一张包含对应角色数据，技能等信息�
 
 nk评分, nk角色评分：输出一张全角色评分图，默认输出爆裂阶段3的评分图,支持选择，输入nk评分 1，bot则会回复爆烈阶段3的评分图。
 
-由于我自己没玩过Nikke，所以我也不知道什么功能比较实用/关键，如果有任何建议随时欢迎提出。
+目前在排队施工中的功能：nk抽卡，nk立绘
 
 example：<img src="https://github.com/Perseus037/data/blob/master/nikke%20example.png" alt="示例" >
 
