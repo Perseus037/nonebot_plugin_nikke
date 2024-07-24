@@ -29,12 +29,6 @@ _✨ 基于 NoneBot2 的胜利女神：妮姬 Wiki 插件✨ _
 
 <div align="left">
 
-## 💬 前言
-
-真夜中のドア/ Stay With Me (feat. Hikari) 神级citypop
-
-别问我为什么要在这放一首歌，因为太好听了。
-
 ## 📖 介绍
 
 一个胜利女神：妮姬的 Wiki 插件，主要数据来源为 GameKee 
